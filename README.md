@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joakim, codename swedzilla
-- 👀 I’m interested in all hekp I can get
+- 👀 I’m interested in all help I can get
 - 🌱 I’m currently learning Codecadamy's Full Stack Engineer
 - 💞️ I’m looking to collaborate on everthing?
 - 📫 How to reach me joakim@melin-ringsparr.no
